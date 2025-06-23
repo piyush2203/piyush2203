@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**piyush2203/piyush2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...<h1 align="left">Hi 👋! My name is Uditya Prakash</h1>
+.<h1 align="left">Hi 👋! My name is Piyush Gupta</h1>
 
 ###
 
@@ -17,11 +6,11 @@ Here are some ideas to get you started:
 
 ###
 
-<h6 align="left">NodeJs | Backend Developer | App Developer(Flutter)</h6>
+<h6 align="left">MERN Developer | NextJs  </h6>
 
 ###
 
-<p align="left">-> 🔭 I’m currently working as App Dev and Backend Development<br>->🌱 I’m currently learning Blockchain<br>->💬 Ask me about Anything</p>
+<p align="left">-> 🔭 I’m currently working as Full Stack Web Development<br>->🌱 I’m currently learning GENAi<br>->💬 Ask me about Anything</p>
 
 ###
 
@@ -39,14 +28,14 @@ Here are some ideas to get you started:
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=udityaprakash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=udityaprakash&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
-<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=udityaprakash&theme=dark" alt="GitHub Streak" /></a> -->
-<!--   <img src="https://streak-stats.demolab.com/?user=udityaprakash&theme=dark" alt="streak graph" height="150"/> -->
-<!--   [![GitHub Streak](https://streak-stats.demolab.com?user=udityaprakash)](https://git.io/streak-stats) -->
-<!--   <a href="https://streak-stats.demolab.com?user=udityaprakash"><img src="https://streak-stats.demolab.com?user=udityaprakash" alt="GitHub Streak" /></a> -->
+  <img src="https://streak-stats.demolab.com?user=udityaprakash&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> 
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=udityaprakash&theme=dark" alt="GitHub Streak" /></a> 
+  <img src="https://streak-stats.demolab.com/?user=udityaprakash&theme=dark" alt="streak graph" height="150"/> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=udityaprakash)](https://git.io/streak-stats) 
+   <a href="https://streak-stats.demolab.com?user=udityaprakash"><img src="https://streak-stats.demolab.com?user=udityaprakash" alt="GitHub Streak" /></a> 
   <br> 
   <a href=" https://github-readme-streak-stats.herokuapp.com/?user=udityaprakash&theme=darcula&hide_border=true&background=FFFFFF00"><img src=" https://github-readme-streak-stats.herokuapp.com/?user=udityaprakash&theme=darcula&hide_border=true&background=FFFFFF00" alt="GitHub Streak" /></a>
-<!--   [![GitHub Streak](https://streak-stats.demolab.com?user=udityaprakash&theme=dark)](https://git.io/streak-stats) -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=udityaprakash&theme=dark)](https://git.io/streak-stats) 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udityaprakash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox_light&hide_border=false&custom_title=Stats" height="150" alt="languages graph"  />
 </div>
 
@@ -100,4 +89,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
